@@ -1,0 +1,1 @@
+SELECT * FROM fake_table -- selects all rows from a table
